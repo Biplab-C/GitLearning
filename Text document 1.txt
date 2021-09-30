@@ -1,7 +1,0 @@
-ABCD EFG
-
-ABCDEFGHHHHHHHHs
-
-
-New line branch Test3
-
