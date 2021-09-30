@@ -3,3 +3,5 @@ ABCD EFG
 ABCDEFGHHHHHHHHs
 
 Line for master
+
+Line new
